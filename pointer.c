@@ -28,6 +28,8 @@ int main(){
             continue;
         }
     }
+    
+    free(array);
 
     return 0;
 
